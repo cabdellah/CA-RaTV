@@ -1,7 +1,7 @@
 {
   "data":[
   { "number":3,
-    "name":"الولايات المتحدة",
+    "name":"USA",
     "numberOfAyahs":3,
     "ayahs":[
       {
@@ -23,7 +23,7 @@
       }
     ]
   },
-  { "number":3,"name":"الولايات المتحدة","numberOfAyahs":3,
+  { "number":3,"name":"USA","numberOfAyahs":3,
     "ayahs":[{"text":""},{"text":""},{"text":""}]}]}
   
   
