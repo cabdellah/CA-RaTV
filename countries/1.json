@@ -1,26 +1,34 @@
 {
-"data":[
-{ "number":1,
-  "name":"الجزائر",
-  "englishName":"Algeria",
-  "numberOfAyahs":3,
-  "ayahs":[
-    {
-      "number":1,
-      "audio":"https://radio-dzair.net/proxy/orientale?mp=/stream/1/",
-      "text":"الشرقي"
-    },
-    {
-      "number":1,
-      "audio":"https://radio-dzair.net/proxy/chaabia?mp=/stream/1/",
-      "text":"الشعبي"
-    },
-    {
-      "number":3,
-      "audio":"https://radio-dzair.net/proxy/aures?mp=/stream/1/",
-      "text":"الأوراسي"
-    }
-  ]
-},
-{ "number":1,"name":"الجزائر","englishName":"Algeria","numberOfAyahs":3,
-  "ayahs":[{"number":1,"text":""},{"number":2,"text":""},{"number":3,"text":""}]}]}
+  "data":[
+  { "number":1,
+    "name":"الجزائر",
+    "englishName":"Algeria",
+    "numberOfAyahs":3,
+    "ayahs":[
+      {
+        "number":1,
+        "audio":"https://radio-dzair.net/proxy/orientale?mp=/stream/1/",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/_orientale.png",
+        "titleRadio":"الشرقي",
+        "subtitleRadio":"أغاني الشرقي"
+      },    
+      {
+        "number":1,
+        "audio":"https://radio-dzair.net/proxy/chaabia?mp=/stream/1/",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/_echaabia.png",
+        "titleRadio":"الشعبي",
+        "subtitleRadio":"أغاني الشعبي"
+      },    
+      {
+        "number":1,
+        "audio":"https://radio-dzair.net/proxy/aures?mp=/stream/1/",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/_aures.png",
+        "titleRadio":"الأوراسي",
+        "subtitleRadio":"أغاني الأوراسي"
+      }
+    ]
+  },
+  { "number":1,"name":"الجزائر","englishName":"Algeria","numberOfAyahs":3,
+    "ayahs":[{"number":1,"text":""},{"number":2,"text":""},{"number":3,"text":""}]}]}
+  
+  
