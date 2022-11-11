@@ -1,7 +1,6 @@
 {
   "data":[
   { "number":4,
-    "numberOfRadios":3,
     "Radios":[
       {
         "audio":"https://s3.radio.co/s9cb11828c/listen",

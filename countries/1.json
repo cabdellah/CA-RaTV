@@ -1,7 +1,7 @@
 {
   "data":[
   { "number":1,
-  "numberOfAyahs":3,
+    "numberOfRadios":3,
     "ayahs":[ 
       {
         "audio":"https://radio-dzair.net/proxy/orientale?mp=/stream/1/",

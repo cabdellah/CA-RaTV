@@ -1,7 +1,7 @@
 {
   "data":[
   { "number":3,
-  "numberOfAyahs":3,
+    "numberOfRadios":3,
     "ayahs":[
       {
         "audio":"https://streaming-ent.shoutcast.com/foxnews",
