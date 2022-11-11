@@ -9,7 +9,8 @@
         "titleRadio":"FOX news Radio",
         "subtitleRadio":"Radio Of USA"
       },
-      {"audio":"https://ais-sa2.cdnstream1.com/1976_128.mp3",
+      {
+        "audio":"https://ais-sa2.cdnstream1.com/1976_128.mp3",
         "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/hitradio.png",
         "titleRadio":"country Radio",
         "subtitleRadio":"Radio Of USA"
@@ -20,8 +21,6 @@
         "titleRadio":"Best Of Radio",
         "subtitleRadio":"Radio Of USA"
       }
-    ]
-  },
-  { "number":3,"numberOfAyahs":3,"ayahs":[{"":""},{"":""},{"":""}]}]}
+]}]}
   
   
