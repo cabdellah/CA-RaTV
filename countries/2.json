@@ -1,0 +1,26 @@
+{
+"data":[
+{"number":2,
+  "name":"المغرب",
+  "englishName":"Marocco",
+  "numberOfAyahs":3,
+  "ayahs":[
+    {
+      "number":1,
+      "audio":"https://broadcast.ice.infomaniak.ch/aswat-high.mp3",
+      "text":"إذاعة أصوات"
+    },
+    {
+      "number":2,
+      "audio":"https://streaming2.rimradio.ma/samaa",
+      "text":"إذاعة سماع"
+    },
+    {
+      "number":6216,
+      "audio":"https://streaming2.rimradio.ma/livetarab",
+      "text":"إذاعة طرب"
+    }
+  ]
+},
+{"number":2,"name":"المغرب","englishName":"Marocco","numberOfAyahs":3,
+  "ayahs":[{"number":1,"text":""},{"number":2,"text":""},{"number":3,"text":""}]}]}

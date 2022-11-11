@@ -1,0 +1,26 @@
+{
+"data":[
+{ "number":1,
+  "name":"الجزائر",
+  "englishName":"Algeria",
+  "numberOfAyahs":3,
+  "ayahs":[
+    {
+      "number":1,
+      "audio":"https://radio-dzair.net/proxy/orientale?mp=/stream/1/",
+      "text":"الشرقي"
+    },
+    {
+      "number":1,
+      "audio":"https://radio-dzair.net/proxy/chaabia?mp=/stream/1/",
+      "text":"الشعبي"
+    },
+    {
+      "number":3,
+      "audio":"https://radio-dzair.net/proxy/aures?mp=/stream/1/",
+      "text":"الأوراسي"
+    }
+  ]
+},
+{ "number":1,"name":"الجزائر","englishName":"Algeria","numberOfAyahs":3,
+  "ayahs":[{"number":1,"text":""},{"number":2,"text":""},{"number":3,"text":""}]}]}

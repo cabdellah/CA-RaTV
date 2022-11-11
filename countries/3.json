@@ -1,0 +1,28 @@
+{
+"data":[
+{"number":3,
+  "name":"الولايات المتحدة",
+  "englishName":"United States",
+  "numberOfAyahs":3,
+  "ayahs":[
+    {
+      "number":1,
+      "audio":"https://streaming-ent.shoutcast.com/foxnews",
+      "audioSecondary":["https://streaming-ent.shoutcast.com/foxnews"],
+      "text":"FOX news Radio"
+    },
+    {
+      "number":2,"audio":"https://ais-sa2.cdnstream1.com/1976_128.mp3",
+      "audioSecondary":["https://ais-sa2.cdnstream1.com/1976_128.mp3"],
+      "text":"country Radio"
+    },
+    {
+      "number":3,
+      "audio":"https://dubai.streamthe.world/unlimited80s",
+      "audioSecondary":["https://dubai.streamthe.world/unlimited80s"],
+      "text":"Best Of Radio"
+    }
+  ]
+},
+{"number":3,"name":"الولايات المتحدة","englishName":"United States","numberOfAyahs":3,
+  "ayahs":[{"number":1,"text":""},{"number":2,"text":""},{"number":3,"text":""}]}]}
