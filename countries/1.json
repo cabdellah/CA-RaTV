@@ -1,7 +1,6 @@
 {
   "data":[
   { "number":1,
-    "name":"الجزائر",
     "numberOfAyahs":3,
     "ayahs":[
       {
@@ -24,7 +23,6 @@
       }
     ]
   },
-  { "number":1,"name":"الجزائر","numberOfAyahs":3,
-    "ayahs":[{"number":1,"text":""},{"number":1,"text":""},{"number":1,"text":""}]}]}
+  { "number":1,"numberOfAyahs":3,"ayahs":[{"":""},{"":""},{"":""}]}]}
   
   

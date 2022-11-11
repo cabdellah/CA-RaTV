@@ -1,7 +1,6 @@
 {
   "data":[
   { "number":4,
-    
     "numberOfAyahs":3,
     "ayahs":[
       {
@@ -23,8 +22,6 @@
         "subtitleRadio":"أغاني الأوراسي"
       }
     ]
-  },
-  { "number":4,"numberOfAyahs":3,
-    "ayahs":[{"number":1,"text":""},{"number":1,"text":""},{"number":1,"text":""}]}]}
+  }]}
   
   
