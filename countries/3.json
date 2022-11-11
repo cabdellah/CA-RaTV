@@ -2,28 +2,35 @@
   "data":[
   { "number":3,
     "name":"USA",
-    "numberOfAyahs":3,
+    "numberOfAyahs":4,
     "ayahs":[
       {
-        "audio":"https://streaming-ent.shoutcast.com/foxnews",
-        "imageRadio":["https://streaming-ent.shoutcast.com/foxnews"],
-        "titleRadio":"FOX news Radio",
-        "subtitleRadio":"Radio Of USA"
-      },
-      {"audio":"https://ais-sa2.cdnstream1.com/1976_128.mp3",
-        "imageRadio":["https://ais-sa2.cdnstream1.com/1976_128.mp3"],
-        "titleRadio":"country Radio",
-        "subtitleRadio":"Radio Of USA"
+        "audio":"https://streaming2.rimradio.ma/livetarab",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/2M.png",
+        "titleRadio":"الإذاعة المغربية الثانية",
+        "subtitleRadio":"إذاعة مغربية"
       },
       {
-        "audio":"https://dubai.streamthe.world/unlimited80s",
-        "imageRadio":["https://dubai.streamthe.world/unlimited80s"],
-        "titleRadio":"Best Of Radio",
-        "subtitleRadio":"Radio Of USA"
+        "audio":"https://broadcast.ice.infomaniak.ch/aswat-high.mp3",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/RaSawa.png",
+        "titleRadio":"إذاعة سوى",
+        "subtitleRadio":"إذاعة مغربية"
+      },    
+      {
+        "audio":"https://streaming2.rimradio.ma/samaa",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/radio-samaa.png",
+        "titleRadio":"إذاعة سماع",
+        "subtitleRadio":"إذاعة مغربية"
+      },    
+      {
+        "audio":"https://streaming2.rimradio.ma/livetarab",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/Tarab.png",
+        "titleRadio":"إذاعة طرب",
+        "subtitleRadio":"إذاعة مغربية"
       }
     ]
   },
   { "number":3,"name":"USA","numberOfAyahs":3,
-    "ayahs":[{"text":""},{"text":""},{"text":""}]}]}
+    "ayahs":[{"":""},{"":""},{"":""}]}]}
   
   
