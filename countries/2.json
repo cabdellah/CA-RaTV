@@ -1,26 +1,30 @@
 {
-"data":[
-{"number":2,
-  "name":"المغرب",
-  "englishName":"Marocco",
-  "numberOfAyahs":3,
-  "ayahs":[
-    {
-      "number":1,
-      "audio":"https://broadcast.ice.infomaniak.ch/aswat-high.mp3",
-      "text":"إذاعة أصوات"
-    },
-    {
-      "number":2,
-      "audio":"https://streaming2.rimradio.ma/samaa",
-      "text":"إذاعة سماع"
-    },
-    {
-      "number":6216,
-      "audio":"https://streaming2.rimradio.ma/livetarab",
-      "text":"إذاعة طرب"
-    }
-  ]
-},
-{"number":2,"name":"المغرب","englishName":"Marocco","numberOfAyahs":3,
-  "ayahs":[{"number":1,"text":""},{"number":2,"text":""},{"number":3,"text":""}]}]}
+  "data":[
+  { "number":2,
+    "name":"المغرب",
+    "numberOfAyahs":3,
+    "ayahs":[
+      {
+        "audio":"https://broadcast.ice.infomaniak.ch/aswat-high.mp3",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/_orientale.png",
+        "titleRadio":"إذاعة أصوات",
+        "subtitleRadio":"إذاعة مغربية"
+      },    
+      {
+        "audio":"https://streaming2.rimradio.ma/samaa",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/_echaabia.png",
+        "titleRadio":"إذاعة سماع",
+        "subtitleRadio":"إذاعة مغربية"
+      },    
+      {
+        "audio":"https://streaming2.rimradio.ma/livetarab",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/_aures.png",
+        "titleRadio":"إذاعة طرب",
+        "subtitleRadio":"إذاعة مغربية"
+      }
+    ]
+  },
+  { "number":2,"name":"المغرب","numberOfAyahs":3,
+    "ayahs":[{"number":1,"text":""},{"number":1,"text":""},{"number":1,"text":""}]}]}
+  
+  
