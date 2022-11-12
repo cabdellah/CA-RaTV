@@ -20,27 +20,7 @@
         "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/ra_cina.png",
         "titleRadio":"Best Of Radio",
         "subtitleRadio":"Radio Of USA"
-      }]},
-{ "number":1,
-  "numberOfRadios":3,
-  "tvDATA":[ 
-  {
-    "audio":"https://radio-dzair.net/proxy/orientale?mp=/stream/1/",
-    "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/_orientale.png",
-    "titleRadio":"الشرقي",
-    "subtitleRadio":"أغاني الشرقي"
-  },    
-  {
-    "audio":"https://radio-dzair.net/proxy/chaabia?mp=/stream/1/",
-    "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/_echaabia.png",
-    "titleRadio":"الشعبي",
-    "subtitleRadio":"أغاني الشعبي"
-  },    
-  {
-    "audio":"https://radio-dzair.net/proxy/aures?mp=/stream/1/",
-    "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/_aures.png",
-    "titleRadio":"الأوراسي",
-    "subtitleRadio":"أغاني الأوراسي"
-  }]}]}
+      }
+]}]}
   
   

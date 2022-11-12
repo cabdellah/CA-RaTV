@@ -6,7 +6,7 @@
       {
         "audio":"https://streaming2.rimradio.ma/livetarab",
         "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/2M.png",
-        "titleRadio":"الإذاعة المغربية الثانية",
+        "titleRadio":"المغربية الثانية",
         "subtitleRadio":"إذاعة مغربية"
       },
       {
@@ -27,29 +27,6 @@
         "titleRadio":"إذاعة طرب",
         "subtitleRadio":"إذاعة مغربية"
       }
-    ]
-  },
-  { "number":2,
-    "numberOfTvs":3,
-    "tvDATA":[
-      {
-        "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1000000=3-mp4a_130400_qad=1.m3u8",
-        "imageTV":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/TV.png",
-        "titleTV":"الأولى",
-        "subtitleTV":"قناة مغربية عامـــة"
-      },     
-      {
-        "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1000000=3-mp4a_130400_qad=1.m3u8",
-        "imageTV":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/TV.png",
-        "titleTV":"الأولى",
-        "subtitleTV":"قناة مغربية عامـــة"
-      },    
-      {
-        "video":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1000000=3-mp4a_130400_qad=1.m3u8",
-        "imageTV":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/TV.png",
-        "titleTV":"الأولى",
-        "subtitleTV":"قناة مغربية عامـــة"
-      }
-  ]}]}
+]}]}
   
   
