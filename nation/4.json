@@ -2,7 +2,7 @@
   "data":[
   { "number":4,
     "numberOfRadios":3,
-    "ayahs":[
+    "radioDATA":[
       {
         "audio":"https://s3.radio.co/s9cb11828c/listen",
         "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Ra.png",

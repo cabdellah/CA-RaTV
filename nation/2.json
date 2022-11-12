@@ -2,7 +2,7 @@
   "data":[
   { "number":2,
     "numberOfRadios":4,
-    "radios":[
+    "radioDATA":[
       {
         "audio":"https://streaming2.rimradio.ma/livetarab",
         "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/2M.png",

@@ -2,7 +2,7 @@
   "data":[
   { "number":3,
     "numberOfRadios":3,
-    "radios":[
+    "radioDATA":[
       {
         "audio":"https://streaming-ent.shoutcast.com/foxnews",
         "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/fox.png",
