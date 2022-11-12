@@ -2,7 +2,7 @@
   "data":[
   { "number":4,
     "numberOfRadios":3,
-    "radios":[
+    "ayahs":[
       {
         "audio":"https://s3.radio.co/s9cb11828c/listen",
         "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Ra.png",
@@ -19,7 +19,7 @@
         "audio":"http://n12.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&rj-tok=AAABgEbC7NcAw1g5v9p1HvSovQ",
         "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Ra.png",
         "titleRadio":"إذاعة القرآن الكريم",
-        "subtitleRadio":"إذاعة القرآن الكريم القاهرة مصر"
+        "subtitleRadio":"إذاعة القرآن الكريم"
       }
 ]}]}
   
