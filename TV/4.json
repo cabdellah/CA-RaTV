@@ -4,9 +4,9 @@
     "numberOfRadios":3,
     "radioDATA":[
       {
-        "audio":"https://s3.radio.co/s9cb11828c/listen",
+        "audio":"https://clvod.itworkscdn.net/sbavod/smil:itwfcdn/sba/1518440-5I251256g3gS3QO.smil/index-f3-v1-a1.m3u8",
         "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/icon.png",
-        "titleRadio": "محطة مصر",
+        "titleRadio": "TV مصر",
         "subtitleRadio": "إذاعة مصرية عامة"
       },    
       {
