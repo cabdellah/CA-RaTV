@@ -1,0 +1,32 @@
+{
+  "data":[
+  { "number":2,
+    "numberOfRadios":4,
+    "radioDATA":[
+      {
+        "audio":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1000000=3-mp4a_130400_qad=1.m3u8",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/2M.png",
+        "titleRadio":"المغربية الأولى",
+        "subtitleRadio":"قناة وطنية عامــــة"
+      },
+      {
+        "audio":"https://broadcast.ice.infomaniak.ch/aswat-high.mp3",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/RaSawa.png",
+        "titleRadio":"إذاعة سوى",
+        "subtitleRadio":"إذاعة مغربية"
+      },    
+      {
+        "audio":"https://streaming2.rimradio.ma/samaa",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/radio-samaa.png",
+        "titleRadio":"إذاعة سماع",
+        "subtitleRadio":"إذاعة مغربية"
+      },    
+      {
+        "audio":"https://streaming2.rimradio.ma/livetarab",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/Tarab.png",
+        "titleRadio":"إذاعة طرب",
+        "subtitleRadio":"إذاعة مغربية"
+      }
+]}]}
+  
+  

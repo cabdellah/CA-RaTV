@@ -1,0 +1,26 @@
+{
+  "data":[
+  { "number":3,
+    "numberOfRadios":3,
+    "radioDATA":[
+      {
+        "audio":"https://streaming-ent.shoutcast.com/foxnews",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/fox.png",
+        "titleRadio":"FOX news Radio",
+        "subtitleRadio":"Radio Of USA"
+      },
+      {
+        "audio":"https://ais-sa2.cdnstream1.com/1976_128.mp3",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/hitradio.png",
+        "titleRadio":"country Radio",
+        "subtitleRadio":"Radio Of USA"
+      },
+      {
+        "audio":"https://dubai.streamthe.world/unlimited80s",
+        "imageRadio":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/assets/Radio/ra_cina.png",
+        "titleRadio":"Best Of Radio",
+        "subtitleRadio":"Radio Of USA"
+      }
+]}]}
+  
+  
